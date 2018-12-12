@@ -32,5 +32,5 @@ if ($err) {
   echo $response;
 }
 
-php header("Location: Microstrategy.html");
+header("Location: Microstrategy.html");
 ?>
